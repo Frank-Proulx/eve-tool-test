@@ -1,0 +1,9 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+.market-orders {
+  border: 0.5rem ridge white;
+  background-color: lightgrey;
+}
